@@ -6,6 +6,7 @@
                     <div>微信扫码参加</div>
                     <div>扫一扫</div>
                     <div>zhangkayi</div>
+                    <div>hsunshunlilide</div>
             </div>
             <div class="code"></div>
         </div>
