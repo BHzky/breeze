@@ -4,6 +4,8 @@
         <div class="left">
             <div class="wechat">
                     <div>微信扫码参加</div>
+                    <div>扫一扫</div>
+                    <div>zhangkayi</div>
             </div>
             <div class="code"></div>
         </div>
